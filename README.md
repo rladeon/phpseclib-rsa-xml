@@ -4,8 +4,6 @@ This programme encrypt and decrypt a string with RSA XML Key format
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 What things you need to install the software and how to install them
@@ -19,9 +17,10 @@ You need to install the latest PHP 5 version ( composer need 5.3 + version ) and
 1) download it: https://getcomposer.org/Composer-Setup.exe
 2) install composer
 3) open a command shell then tip composer, if you don't get error message you have done.
-
 ```
+
 ##### Ubuntu
+```
 1) open a shell tip that in :
 curl -sS https://getcomposer.org/installer | php sudo mv composer.phar /usr/local/bin/composer.phar
 2) create an alias:
